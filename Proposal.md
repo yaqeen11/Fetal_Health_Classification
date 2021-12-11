@@ -8,8 +8,7 @@ In this project, I will create a model to classify the outcome of Cardiotocogram
 
 
 ## Business Problem:
-
-
+We are an insurance company that provides health insurance for pregnant women in order to maintain the health of their pregnancy in order to make the pregnancy stage healthy and free from risks and preserve the mother and her fetus for the success of the pregnancy stage.
 
 ## Data Description:
   ### source:
