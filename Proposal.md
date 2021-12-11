@@ -10,8 +10,6 @@ In this project, I will create a model to classify the outcome of Cardiotocogram
 ## Business Problem:
 
 
-## Project Management Approach:
-Following basic SCRUM rules.
 
 ## Data Description:
   ### source:
@@ -44,9 +42,9 @@ Following basic SCRUM rules.
 
 
 ## Algorithms:
-  - ..
-  - ..
-  - ..
+  - Logistic regression.
+  - Random forest.
+  - Knn.
 
 
 ## Tools:
