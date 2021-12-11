@@ -4,7 +4,7 @@
 Classify fetal health in order to prevent child and maternal mortality.
 The goal of this statistical analysis is to help us  use the Cardiotocography (CTG) is during pregnancy to monitor fetal heart rate and uterine contractions.
 It is monitor fetal well-being and allows early detection of fetal distress.
-In this project, I will create a model to classify the outcome of Cardiotocogram test to ensure the well being of the fetus
+In this project, I will create a model to classify the outcome of Cardiotocogram test to ensure the well being of the fetus.
 
 
 ## Business Problem:
@@ -52,7 +52,7 @@ In this project, I will create a model to classify the outcome of Cardiotocogram
 
 ## Tools:
   - Jupyter (Python: numpy, pandas, matplotlib, seaborn, plotly, sklearn)
-  - Power Point
+  - Power Point Trello Github
   - Zoom
 
 
@@ -62,6 +62,7 @@ In this project, I will create a model to classify the outcome of Cardiotocogram
   - Can Fetal heart rate monitoring of short-term variation (STV) has a relationship with fetal health in terms of baseline value?
   - What is the relationship between severe decelerations and uterine contractions in each type of fetal health?
   - Does mean value of short term variability has a relationship with fetal health type in term of uterine contractions?
+  - what is majority  class of fetal health?
 
 
 ## MVP Goal:
