@@ -13,8 +13,8 @@ In this project, I will create a model to classify the outcome of Cardiotocogram
 
 ## Data Description:
   ### source:
-  The data was obtained from the kaggle website: https://www.kaggle.com/mohammadqahtani/riyadh-villas-dataset
-  This data has 17,379 rows, 14 columns.
+  The data was obtained from the kaggle website: https://www.kaggle.com/andrewmvd/fetal-health-classification
+  This data has 2126 rows, 22 columns.
 
 
     
